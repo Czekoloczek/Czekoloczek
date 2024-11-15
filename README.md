@@ -1,10 +1,13 @@
-![status](https://api.statusbadges.me/badge/status/574200797630300181?style=for-the-badge)
-![playing](https://api.statusbadges.me/badge/playing/574200797630300181?style=for-the-badge)
-![vscode](https://api.statusbadges.me/badge/vscode/574200797630300181?style=for-the-badge)
-![intellij](https://api.statusbadges.me/badge/intellij/574200797630300181?style=for-the-badge)
-[![spotify](https://api.statusbadges.me/badge/spotify/574200797630300181?style=for-the-badge)](https://api.statusbadges.me/openspotify/574200797630300181)
-![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/574200797630300181?style=for-the-badge)
-## I'm a dumbass 👋
+> [!NOTE]
+> This user is a dumbass
+
+| Am I online? | What am I playing? | What am I coding in VSCode? |
+| :---: | :---: | :---: |
+| ![status](https://api.statusbadges.me/badge/status/574200797630300181?style=for-the-badge) | ![playing](https://api.statusbadges.me/badge/playing/574200797630300181?style=for-the-badge) | ![vscode](https://api.statusbadges.me/badge/vscode/574200797630300181?style=for-the-badge) |
+
+| What am I coding in IntelliJ? | What am I listening to on Spotify? | What am I watching on CrunchyRoll? |
+| :---: | :---: | :---: |
+| ![intellij](https://api.statusbadges.me/badge/intellij/574200797630300181?style=for-the-badge) | [![spotify](https://api.statusbadges.me/badge/spotify/574200797630300181?style=for-the-badge)](https://api.statusbadges.me/openspotify/574200797630300181) | ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/574200797630300181?style=for-the-badge) |
 
 <!--
 **Czekoloczek/Czekoloczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
