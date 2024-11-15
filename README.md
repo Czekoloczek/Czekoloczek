@@ -1,4 +1,10 @@
-## Hi there 👋
+![status](https://api.statusbadges.me/badge/status/574200797630300181?style=for-the-badge)
+![playing](https://api.statusbadges.me/badge/playing/574200797630300181?style=for-the-badge)
+![vscode](https://api.statusbadges.me/badge/vscode/574200797630300181?style=for-the-badge)
+![intellij](https://api.statusbadges.me/badge/intellij/574200797630300181?style=for-the-badge)
+[![spotify](https://api.statusbadges.me/badge/spotify/574200797630300181?style=for-the-badge)](https://api.statusbadges.me/openspotify/574200797630300181)
+![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/574200797630300181?style=for-the-badge)
+## I'm a dumbass 👋
 
 <!--
 **Czekoloczek/Czekoloczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
