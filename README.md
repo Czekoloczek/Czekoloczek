@@ -1,6 +1,8 @@
 > [!NOTE]
 > This user is a dumbass
 
+<div align="center">
+
 | Am I online? | What am I playing? | What am I coding in VSCode? |
 | :---: | :---: | :---: |
 | ![status](https://api.statusbadges.me/badge/status/574200797630300181?style=for-the-badge) | ![playing](https://api.statusbadges.me/badge/playing/574200797630300181?style=for-the-badge) | ![vscode](https://api.statusbadges.me/badge/vscode/574200797630300181?style=for-the-badge) |
@@ -9,17 +11,13 @@
 | :---: | :---: | :---: |
 | ![intellij](https://api.statusbadges.me/badge/intellij/574200797630300181?style=for-the-badge) | [![spotify](https://api.statusbadges.me/badge/spotify/574200797630300181?style=for-the-badge)](https://api.statusbadges.me/openspotify/574200797630300181) | ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/574200797630300181?style=for-the-badge) |
 
-<!--
-**Czekoloczek/Czekoloczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Table for GitHub stats and top languages -->
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czekoloczek&show_icons=true&theme=midnight-purple) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple) |
 
-Here are some ideas to get you started:
+| WakaTime Stats |
+| :---: |
+| ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@czekoloczek&theme=midnight-purple) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
