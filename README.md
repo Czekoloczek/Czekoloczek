@@ -11,13 +11,7 @@
 | :---: | :---: | :---: |
 | ![intellij](https://api.statusbadges.me/badge/intellij/574200797630300181?style=for-the-badge) | [![spotify](https://api.statusbadges.me/badge/spotify/574200797630300181?style=for-the-badge)](https://api.statusbadges.me/openspotify/574200797630300181) | ![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/574200797630300181?style=for-the-badge) |
 
-<!-- Table for GitHub stats and top languages -->
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czekoloczek&show_icons=true&theme=midnight-purple) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple) |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czekoloczek&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)
 
-| WakaTime Stats |
-| :---: |
-| ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@czekoloczek&theme=midnight-purple) |
-
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@czekoloczek&theme=midnight-purple)
 </div>
